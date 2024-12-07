@@ -1,5 +1,5 @@
 <!-- 상단 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7769F0&height=150&section=header" />
 
 <!-- 동적 텍스트 -->
 <h1 align="center">
@@ -52,4 +52,4 @@
 ---
 
 <!-- 하단 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7769F0&height=150&section=footer" />
