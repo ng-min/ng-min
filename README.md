@@ -52,4 +52,4 @@
 ---
 
 <!-- 하단 웨이브 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#7769F0&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7769F0&height=150&section=header" />
