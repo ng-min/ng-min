@@ -42,11 +42,11 @@
 <!-- GitHub 활동 -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ng-min&show_icons=true&theme=material-palenight&hide_border=false&bg_color=FFFFFF&border_color=FFFFFF&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-min&layout=compact&show_icons=true&theme=material-palenight&hide_border=false&bg_color=FFFFFF&border_color=FFFFFF&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-min&show_icons=true&theme=material-palenight&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-min&layout=compact&show_icons=true&theme=material-palenight&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="47%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ng-min&theme=react&bg_color=FFFFFF&hide_border=false&border_color=FFFFFF&line=58A6FF&color=58A6FF" width="94%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ng-min&theme=react&bg_color=FFFFFF&hide_border=false&border_color=DDDDDD&line=58A6FF&color=58A6FF" width="94%" />
 </p>
 
 <img src="https://github.com/ng-min/ng-min/blob/output/github-snake-dark.svg" width="100%">
