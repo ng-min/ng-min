@@ -49,6 +49,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ng-min&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%" />
 </p>
 
+<img src="https://github.com/ng-min/ng-min/blob/output/github-snake-dark.svg" width="100%">
+
 ---
 
 <!-- 하단 웨이브 배너 -->
